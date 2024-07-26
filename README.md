@@ -1,4 +1,5 @@
- Decodificador de Texto
+Challenge Decodificador de Texto 👨‍💻
+Este projeto foi desenvolvido como parte do desafio final do curso Iniciante em Programação T7 - ONE + Alura
 
 Este projeto é um decodificador de texto que permite criptografar e descriptografar mensagens usando substituições específicas de caracteres. A aplicação é desenvolvida usando HTML, CSS e JavaScript.
 
